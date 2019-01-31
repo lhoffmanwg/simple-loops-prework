@@ -1,7 +1,7 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator(number_of_times)
-  counter = 1 
+  counter = 0  
   loop do
     if counter > number_of_times 
       break
